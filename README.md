@@ -136,17 +136,20 @@ Everything else runs in the cloud!
 
 ### Quick Start
 
-1. **Clone this repository**
+1. **Get the 500-page book**
+   [https://leanpub.com/generativeaiforscience](https://leanpub.com/generativeaiforscience)
+   
+2.   **Clone this repository**
 ```bash
 git clone https://github.com/jpliu168/Generative_AI_For_Science.git
 cd Generative_AI_For_Science
 ```
 
-2. **Open any notebook in Google Colab**
+3. **Open any notebook in Google Colab**
    - Click the "Open in Colab" badge in each notebook
    - Or upload directly to [colab.research.google.com](https://colab.research.google.com)
 
-3. **Run the code**
+4. **Read a chapter and Run the code**
    - Each notebook is self-contained with all dependencies
    - GPU runtime recommended for deep learning examples
 
@@ -325,6 +328,8 @@ If you use this book or code in your research, please cite:
 - 💬 **Discussions**: Use GitHub Discussions for Q&A  
 - 🐛 **Issues**: Report bugs via GitHub Issues
 
+## Update Note
+- This book will be updated regularly based on feedback from students and users.
 ---
 
 ## 🙏 Acknowledgements
