@@ -33,7 +33,7 @@
 | 🌍 GenCast weather AI | Outperforms best models in **97% of scenarios** |
 | ⚡ Neural surrogates | Simulations **1000x faster** than traditional methods |
 
-**This book teaches you HOW to build these systems yourself.**
+**This book teaches you HOW to start and build educational-similar systems yourself.**
 
 ---
 
