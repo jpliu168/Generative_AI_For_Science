@@ -327,11 +327,11 @@ J. Paul Liu, 2026. Generative AI for Science. Leanpub, https://leanpub.com/gener
 
 ## 📬 Contact & Community
 
-- 📧 **Email**: [Contact through Leanpub] (https://leanpub.com/generativeaiforscience)  
-- 🐦 **Twitter / X**: Follow for updates  
-- 💼 **LinkedIn**: Connect for professional updates  
-- 💬 **Discussions**: Use GitHub Discussions for Q&A  
-- 🐛 **Issues**: Report bugs via GitHub Issues
+📧 **Email**: [Contact through Leanpub](https://leanpub.com/generativeaiforscience)  
+🐦 **Twitter / X**: [@jpliu168](https://x.com/jpliu168) — follow for updates  
+💼 **LinkedIn**: [Paul Liu](https://www.linkedin.com/in/paul-liu-ba408025/) — connect for professional updates  
+💬 **Discussions**: Use GitHub Discussions for Q&A  
+🐛 **Issues**: Report bugs via GitHub Issues
 
 ## Update Note
 - This book will be updated regularly based on feedback from students and users.
