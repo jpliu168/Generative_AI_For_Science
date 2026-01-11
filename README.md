@@ -319,6 +319,9 @@ If you use this book or code in your research, please cite:
   url       = {https://leanpub.com/generativeaiforscience}
 }
 ```
+or simply:
+
+J. Paul Liu, 2026. Generative AI for Science. Leanpub, https://leanpub.com/generativeaiforscience. 
 
 ---
 
