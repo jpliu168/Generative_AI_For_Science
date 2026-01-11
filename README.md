@@ -1,5 +1,5 @@
 # 🧬 Generative AI for Science
-
+## - A Hands-On Guide for Students and Researchers
 ### Design molecules. Predict protein structures. Accelerate climate models. All with AI.
 
 <p align="center">
