@@ -17,6 +17,8 @@
 
 <p align="center">
   <em>By Dr. J. Paul Liu</em>
+  ## Update Note
+- This book will be updated regularly based on feedback from students and users.
   <br> https://leanpub.com/generativeaiforscience
 </p>
 
