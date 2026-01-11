@@ -9,6 +9,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PyTorch-2.0+-red?style=for-the-badge&logo=pytorch" alt="PyTorch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/></a>
+  
+  https://leanpub.com/generativeaiforscience
 </p>
 
 <p align="center">
@@ -318,9 +320,10 @@ If you use this book or code in your research, please cite:
 
 ## 📬 Contact & Community
 
-- 📧 **Email**: [Contact through Leanpub]
-- 🐦 **Twitter**: Follow for updates
-- 💬 **Discussions**: Use GitHub Discussions for Q&A
+- 📧 **Email**: [Contact through Leanpub] (https://leanpub.com/generativeaiforscience)  
+- 🐦 **Twitter / X**: Follow for updates  
+- 💼 **LinkedIn**: Connect for professional updates  
+- 💬 **Discussions**: Use GitHub Discussions for Q&A  
 - 🐛 **Issues**: Report bugs via GitHub Issues
 
 ---
