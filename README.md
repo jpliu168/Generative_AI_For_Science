@@ -1,26 +1,51 @@
 # 🧬 Generative AI for Science
 
+### Design molecules. Predict protein structures. Accelerate climate models. All with AI.
+
 <p align="center">
   <img src="book_cover.png" alt="Generative AI for Science Book Cover" width="300"/>
 </p>
 
 <p align="center">
-  <a href="https://leanpub.com/generativeaiforscience"><img src="https://img.shields.io/badge/Leanpub-Purchase%20Book-yellow?style=for-the-badge&logo=leanpub" alt="Leanpub"/></a>
+  <strong>500+ pages • 13 chapters • 50+ runnable notebooks • Zero setup required</strong>
+</p>
+
+<p align="center">
+  <a href="https://leanpub.com/generativeaiforscience"><img src="https://img.shields.io/badge/📖_Get_the_Book-Leanpub-yellow?style=for-the-badge" alt="Leanpub"/></a>
+  <a href="#-quick-start"><img src="https://img.shields.io/badge/▶️_Try_Now-Colab-orange?style=for-the-badge" alt="Try Now"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyTorch-2.0+-red?style=for-the-badge&logo=pytorch" alt="PyTorch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/></a>
 </p>
 
 <p align="center">
-  <strong>A Hands-On Guide to Transformers, Diffusion Models, and AI-Driven Discovery</strong>
+  <em>By Dr. J. Paul Liu</em><br>
+  📢 <strong>Updated regularly based on student & reader feedback</strong>
 </p>
 
-<p align="center">
-  <em>By Dr. J. Paul Liu</em><br>
-  ## Update Note
-- This book will be updated regularly based on feedback from students and users.
-  <br> https://leanpub.com/generativeaiforscience
-</p>
+---
+
+## 🔥 Why This Book?
+
+| The Revolution | The Impact |
+|----------------|------------|
+| 🧪 AI-designed drugs | **80-90% Phase I success** vs traditional 40-65% |
+| 🧬 AlphaFold protein prediction | **2024 Nobel Prize in Chemistry** |
+| 🌍 GenCast weather AI | Outperforms best models in **97% of scenarios** |
+| ⚡ Neural surrogates | Simulations **1000x faster** than traditional methods |
+
+**This book teaches you HOW to build these systems yourself.**
+
+---
+
+## 🎯 What Can You Build?
+
+| In 30 Minutes | You'll Create | Using |
+|---------------|---------------|-------|
+| 🧪 Drug Discovery | Design molecules with target properties | GNNs + Diffusion |
+| 🧬 Protein Engineering | Predict 3D structure from sequence | ESMFold |
+| 🌍 Climate Science | Fast weather/climate emulators | Neural Surrogates |
+| ⚛️ Physics Simulation | Solve PDEs with neural networks | PINNs |
+| 📚 Literature Mining | Extract insights from papers | RAG + LLMs |
 
 ---
 
@@ -41,7 +66,18 @@
 
 ---
 
-## 🎯 What You Will Learn
+## 🎓 Who Is This For?
+
+| You Are... | You'll Get... |
+|------------|---------------|
+| 🔬 **Domain Scientist** | AI skills to accelerate your research |
+| 💻 **ML Engineer** | Scientific applications for your expertise |
+| 🎓 **Graduate Student** | Complete curriculum with hands-on projects |
+| 👔 **Industry Practitioner** | Production-ready code and best practices |
+
+---
+
+## ✅ What You Will Learn
 
 By the end of this book, you will:
 
@@ -78,6 +114,9 @@ By the end of this book, you will:
 |---------|-------|--------|
 | 7 | **Domain Applications** | Chemistry & Materials, Biology & Biomedicine, Physics & Engineering, Geoscience & Climate |
 
+<details>
+<summary><b>📂 Chapter 7 Detailed Breakdown (click to expand)</b></summary>
+
 **Part I: Chemistry & Materials Science**
 - Molecular Graph Learning (GNNs)
 - Molecular Generation with Diffusion Models
@@ -106,6 +145,8 @@ By the end of this book, you will:
 - Multi-task Learning
 - Foundation Models
 
+</details>
+
 ### Part IV: Production & Best Practices
 
 | Chapter | Title | Topics |
@@ -119,40 +160,32 @@ By the end of this book, you will:
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Quick Start
 
 ### Prerequisites
 
-- **Python programming**: Functions, loops, data structures
-- **Statistics**: Distributions, hypothesis testing (undergraduate level)
-- **Scientific computing**: NumPy, Matplotlib (helpful but not required)
-- **No prior deep learning experience necessary**
-
-### Technical Requirements
-
 ```
-✅ A web browser
-✅ Curiosity
-Everything else runs in the cloud!
+✅ Basic Python (functions, loops, data structures)
+✅ Undergraduate statistics (helpful but not required)
+✅ A web browser + curiosity
+❌ No prior deep learning experience needed
 ```
 
-### Quick Start
+### Get Started in 3 Steps
 
-1. **Get the 500-page book**
-   [https://leanpub.com/generativeaiforscience](https://leanpub.com/generativeaiforscience)
+1. **📖 Get the 500-page book**
    
-2.   **Clone this repository**
+   👉 [https://leanpub.com/generativeaiforscience](https://leanpub.com/generativeaiforscience)
+   
+2. **📥 Clone this repository**
 ```bash
 git clone https://github.com/jpliu168/Generative_AI_For_Science.git
 cd Generative_AI_For_Science
 ```
 
-3. **Open any notebook in Google Colab**
+3. **▶️ Open any notebook in Google Colab**
    - Click the "Open in Colab" badge in each notebook
    - Or upload directly to [colab.research.google.com](https://colab.research.google.com)
-
-4. **Read a chapter and Run the code**
-   - Each notebook is self-contained with all dependencies
    - GPU runtime recommended for deep learning examples
 
 ---
@@ -319,22 +352,23 @@ If you use this book or code in your research, please cite:
   url       = {https://leanpub.com/generativeaiforscience}
 }
 ```
-or simply:
 
-J. Paul Liu, 2026. Generative AI for Science. Leanpub, https://leanpub.com/generativeaiforscience. 
+Or simply:
+
+> J. Paul Liu, 2026. *Generative AI for Science*. Leanpub, https://leanpub.com/generativeaiforscience
 
 ---
 
 ## 📬 Contact & Community
 
-📧 **Email**: [Contact through Leanpub](https://leanpub.com/generativeaiforscience)  
-🐦 **Twitter / X**: [@jpliu168](https://x.com/jpliu168) — follow for updates  
-💼 **LinkedIn**: [Paul Liu](https://www.linkedin.com/in/paul-liu-ba408025/) — connect for professional updates  
-💬 **Discussions**: Use GitHub Discussions for Q&A  
-🐛 **Issues**: Report bugs via GitHub Issues
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [Contact through Leanpub](https://leanpub.com/generativeaiforscience) |
+| 🐦 **Twitter / X** | [@jpliu168](https://x.com/jpliu168) — follow for updates |
+| 💼 **LinkedIn** | [Paul Liu](https://www.linkedin.com/in/paul-liu-ba408025/) — connect for professional updates |
+| 💬 **Discussions** | Use GitHub Discussions for Q&A |
+| 🐛 **Issues** | Report bugs via GitHub Issues |
 
-## Update Note
-- This book will be updated regularly based on feedback from students and users.
 ---
 
 ## 🙏 Acknowledgements
@@ -358,9 +392,13 @@ The book content is © 2026 J. Paul Liu. Code examples are provided under MIT Li
 
 ---
 
-## ⭐ Star History
+## ⭐ Support This Project
 
-If you find this resource helpful, please consider giving it a star! ⭐
+If you find this resource helpful:
+- ⭐ **Star this repository** to help others discover it
+- 🐦 **Share on Twitter/LinkedIn** to spread the word
+- 📖 **Get the book** to support continued development
+- 💬 **Leave feedback** to help improve future editions
 
 ---
 
@@ -379,3 +417,28 @@ If you find this resource helpful, please consider giving it a star! ⭐
   <br>
   — Dr. J. Paul Liu
 </p>
+
+---
+
+<!--
+SOCIAL MEDIA OPTIMIZATION NOTES:
+================================
+For best social sharing, add these files to your repository:
+
+1. Create a `social_preview.png` (1280x640px) with:
+   - Book title prominently displayed
+   - Key stats: "500+ pages • 13 chapters • 50+ notebooks"
+   - Tagline: "Design molecules. Predict proteins. Accelerate science."
+   - Visual elements: molecules, proteins, climate visualizations
+
+2. Add to repository settings → Social Preview → Upload image
+
+3. Short description for GitHub: 
+   "🧬 Hands-on guide to Transformers, Diffusion Models & AI for scientific discovery. 
+   500+ pages, 50+ Colab notebooks. Design molecules, predict proteins, accelerate climate models."
+
+4. Topics to add: 
+   generative-ai, machine-learning, scientific-computing, drug-discovery, 
+   protein-structure, climate-science, transformers, diffusion-models, 
+   physics-informed-neural-networks, deep-learning
+-->
