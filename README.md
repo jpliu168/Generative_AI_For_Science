@@ -1,9 +1,7 @@
-# Generative_AI_For_Science
-
 # 🧬 Generative AI for Science
 
 <p align="center">
-  <img src="assets/book_cover.png" alt="Generative AI for Science Book Cover" width="300"/>
+  <img src="book_cover.png" alt="Generative AI for Science Book Cover" width="300"/>
 </p>
 
 <p align="center">
@@ -369,10 +367,3 @@ If you find this resource helpful, please consider giving it a star! ⭐
   <br>
   — Dr. J. Paul Liu
 </p>
-
-<https://leanpub.com/generativeaiforscience>
-[![Book Cover](book_cover.png)](https://leanpub.com/generativeaiforscience)
-##coming soon
-J. Paul Liu, 2026. Generative AI For Science. Leanpub, https://leanpub.com/generativeaiforscience
-<https://leanpub.com/generativeaiforscience>
-
