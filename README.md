@@ -177,11 +177,9 @@ By the end of this book, you will:
    
    👉 [https://leanpub.com/generativeaiforscience](https://leanpub.com/generativeaiforscience)
    
-2. **📥 Clone this repository**
-```bash
-git clone https://github.com/jpliu168/Generative_AI_For_Science.git
-cd Generative_AI_For_Science
-```
+2. **📥 Pick up a chapter**
+
+  - Read the chapter and open that chapter's Colab Notebook 
 
 3. **▶️ Open any notebook in Google Colab**
    - Click the "Open in Colab" badge in each notebook
