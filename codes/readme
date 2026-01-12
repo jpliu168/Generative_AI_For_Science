@@ -1,20 +1,26 @@
-
 ## Colab Notebooks
 
-| Chapter | Topic | Notebook |
-|---------|-------|----------|
-| 4 | Text & Knowledge Generation for Scientists | [Open in Colab](https://colab.research.google.com/drive/19mszERGyZU2lbsqGgXElGC_6wBJocGC1) |
-| 5 | Data-to-Data Models | [Open in Colab](https://colab.research.google.com/drive/11Ikr2WiUGcyBEs4AxJoF5t7biS5t_eBi) |
-| 6 | Physics-Informed AI and Simulation | [Open in Colab](https://colab.research.google.com/drive/1dwKNoHjm4NNldZaxj_R_CQtGzyB6yMyq) |
-| 7.1 | Chemistry & Materials Science | [Open in Colab](https://colab.research.google.com/drive/1Pd5ykAR98a_9_SWxCY9cdBHNhHgFfN55) |
-| 7.2 | Biology & Biomedicine | [Open in Colab](https://colab.research.google.com/drive/1Hf5ZQqJRK5H6vi4zH3da7ZFSZ6AeT7PM) |
-| 7.3 | Physics & Engineering | [Open in Colab](https://colab.research.google.com/drive/1UokkpyXFyD8UfiKmzqQL9jJrTf7JPmn8) |
-| 7.4 | Geoscience & Climate Applications | [Open in Colab](https://colab.research.google.com/drive/1H0A-NM6_nAPBJVhV3_AE_MURhzY6ynHi) |
-| 7.5 | Cross-Cutting Applications in Deep Learning | [Open in Colab](https://colab.research.google.com/drive/1j-jKCGRWisV7kaABupLM398oMJVwuiff) |
-| 8 | Fine-Tuning & Domain Adaptation | [Open in Colab](https://colab.research.google.com/drive/1lM0L3fojnK4UasVxh63NeK-2Ea_SANgX) |
-| 9 | Multimodal Generative AI for Sciences | [Open in Colab](https://colab.research.google.com/drive/1cP0p02-HD-VoD7LQAewTOBdz-kGShWfN) |
-| 10 | Evaluation, Validation & Benchmarking | [Open in Colab](https://colab.research.google.com/drive/18MjA2wYPmT-let7PbTCeXmlpsGeSUNQl) |
-| 11 | Ethics & Responsible AI for Science | [Open in Colab](https://colab.research.google.com/drive/1oj3G6CZO06UL5d8RNJ8hBZpBTcGWEuBl) |
-| 12 | Deployment & MLOps for Scientific Applications | [Open in Colab](https://colab.research.google.com/drive/16DuBqOgIxW4U6JSm2hRWEL-JD0Vzu_wI) |
-| 13 | Future Directions & Conclusion | [Open in Colab](https://colab.research.google.com/drive/1cvjPwsA-uGSpG4i86VVUAiOpaLYudLMc) |
+### Foundations
+- <a href="https://colab.research.google.com/drive/1d4LAwJp6cZvLDjX-vKJ5C_lc5PRXauk7" target="_blank">Chapter 3: Scientific Data & Workflows</a>
+- <a href="https://colab.research.google.com/drive/19mszERGyZU2lbsqGgXElGC_6wBJocGC1" target="_blank">Chapter 4: Text & Knowledge Generation for Scientists</a>
 
+### Core Techniques
+- <a href="https://colab.research.google.com/drive/11Ikr2WiUGcyBEs4AxJoF5t7biS5t_eBi" target="_blank">Chapter 5: Data-to-Data Models</a>
+- <a href="https://colab.research.google.com/drive/1dwKNoHjm4NNldZaxj_R_CQtGzyB6yMyq" target="_blank">Chapter 6: Physics-Informed AI and Simulation</a>
+
+### Domain Applications (Chapter 7)
+- <a href="https://colab.research.google.com/drive/1Pd5ykAR98a_9_SWxCY9cdBHNhHgFfN55" target="_blank">Part I: Chemistry & Materials Science</a>
+- <a href="https://colab.research.google.com/drive/1Hf5ZQqJRK5H6vi4zH3da7ZFSZ6AeT7PM" target="_blank">Part II: Biology & Biomedicine</a>
+- <a href="https://colab.research.google.com/drive/1UokkpyXFyD8UfiKmzqQL9jJrTf7JPmn8" target="_blank">Part III: Physics & Engineering</a>
+- <a href="https://colab.research.google.com/drive/1H0A-NM6_nAPBJVhV3_AE_MURhzY6ynHi" target="_blank">Part IV: Geoscience & Climate Applications</a>
+- <a href="https://colab.research.google.com/drive/1j-jKCGRWisV7kaABupLM398oMJVwuiff" target="_blank">Part V: Cross-Cutting Applications in Deep Learning</a>
+
+### Advanced Topics
+- <a href="https://colab.research.google.com/drive/1lM0L3fojnK4UasVxh63NeK-2Ea_SANgX" target="_blank">Chapter 8: Fine-Tuning & Domain Adaptation</a>
+- <a href="https://colab.research.google.com/drive/1cP0p02-HD-VoD7LQAewTOBdz-kGShWfN" target="_blank">Chapter 9: Multimodal Generative AI for Sciences</a>
+
+### Production & Best Practices
+- <a href="https://colab.research.google.com/drive/18MjA2wYPmT-let7PbTCeXmlpsGeSUNQl" target="_blank">Chapter 10: Evaluation, Validation & Benchmarking</a>
+- <a href="https://colab.research.google.com/drive/1oj3G6CZO06UL5d8RNJ8hBZpBTcGWEuBl" target="_blank">Chapter 11: Ethics & Responsible AI for Science</a>
+- <a href="https://colab.research.google.com/drive/16DuBqOgIxW4U6JSm2hRWEL-JD0Vzu_wI" target="_blank">Chapter 12: Deployment & MLOps for Scientific Applications</a>
+- <a href="https://colab.research.google.com/drive/1cvjPwsA-uGSpG4i86VVUAiOpaLYudLMc" target="_blank">Chapter 13: Future Directions & Conclusion</a>
