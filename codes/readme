@@ -1,19 +1,17 @@
 ## Colab Notebooks
 
-| Chapter | Topic | Notebook |
-|---------|-------|----------|
-| 3 | Scientific Data & Workflows | <a href="https://colab.research.google.com/drive/1d4LAwJp6cZvLDjX-vKJ5C_lc5PRXauk7" target="_blank">Open in Colab</a> |
-| 4 | Text & Knowledge Generation for Scientists | <a href="https://colab.research.google.com/drive/19mszERGyZU2lbsqGgXElGC_6wBJocGC1" target="_blank">Open in Colab</a> |
-| 5 | Data-to-Data Models | <a href="https://colab.research.google.com/drive/11Ikr2WiUGcyBEs4AxJoF5t7biS5t_eBi" target="_blank">Open in Colab</a> |
-| 6 | Physics-Informed AI and Simulation | <a href="https://colab.research.google.com/drive/1dwKNoHjm4NNldZaxj_R_CQtGzyB6yMyq" target="_blank">Open in Colab</a> |
-| 7.1 | Chemistry & Materials Science | <a href="https://colab.research.google.com/drive/1Pd5ykAR98a_9_SWxCY9cdBHNhHgFfN55" target="_blank">Open in Colab</a> |
-| 7.2 | Biology & Biomedicine | <a href="https://colab.research.google.com/drive/1Hf5ZQqJRK5H6vi4zH3da7ZFSZ6AeT7PM" target="_blank">Open in Colab</a> |
-| 7.3 | Physics & Engineering | <a href="https://colab.research.google.com/drive/1UokkpyXFyD8UfiKmzqQL9jJrTf7JPmn8" target="_blank">Open in Colab</a> |
-| 7.4 | Geoscience & Climate Applications | <a href="https://colab.research.google.com/drive/1H0A-NM6_nAPBJVhV3_AE_MURhzY6ynHi" target="_blank">Open in Colab</a> |
-| 7.5 | Cross-Cutting Applications in Deep Learning | <a href="https://colab.research.google.com/drive/1j-jKCGRWisV7kaABupLM398oMJVwuiff" target="_blank">Open in Colab</a> |
-| 8 | Fine-Tuning & Domain Adaptation | <a href="https://colab.research.google.com/drive/1lM0L3fojnK4UasVxh63NeK-2Ea_SANgX" target="_blank">Open in Colab</a> |
-| 9 | Multimodal Generative AI for Sciences | <a href="https://colab.research.google.com/drive/1cP0p02-HD-VoD7LQAewTOBdz-kGShWfN" target="_blank">Open in Colab</a> |
-| 10 | Evaluation, Validation & Benchmarking | <a href="https://colab.research.google.com/drive/18MjA2wYPmT-let7PbTCeXmlpsGeSUNQl" target="_blank">Open in Colab</a> |
-| 11 | Ethics & Responsible AI for Science | <a href="https://colab.research.google.com/drive/1oj3G6CZO06UL5d8RNJ8hBZpBTcGWEuBl" target="_blank">Open in Colab</a> |
-| 12 | Deployment & MLOps for Scientific Applications | <a href="https://colab.research.google.com/drive/16DuBqOgIxW4U6JSm2hRWEL-JD0Vzu_wI" target="_blank">Open in Colab</a> |
-| 13 | Future Directions & Conclusion | <a href="https://colab.research.google.com/drive/1cvjPwsA-uGSpG4i86VVUAiOpaLYudLMc" target="_blank">Open in Colab</a> |
+- [Chapter 3: Scientific Data & Workflows](https://colab.research.google.com/drive/1d4LAwJp6cZvLDjX-vKJ5C_lc5PRXauk7)
+- [Chapter 4: Text & Knowledge Generation for Scientists](https://colab.research.google.com/drive/19mszERGyZU2lbsqGgXElGC_6wBJocGC1)
+- [Chapter 5: Data-to-Data Models](https://colab.research.google.com/drive/11Ikr2WiUGcyBEs4AxJoF5t7biS5t_eBi)
+- [Chapter 6: Physics-Informed AI and Simulation](https://colab.research.google.com/drive/1dwKNoHjm4NNldZaxj_R_CQtGzyB6yMyq)
+- [Chapter 7 Part I: Chemistry & Materials Science](https://colab.research.google.com/drive/1Pd5ykAR98a_9_SWxCY9cdBHNhHgFfN55)
+- [Chapter 7 Part II: Biology & Biomedicine](https://colab.research.google.com/drive/1Hf5ZQqJRK5H6vi4zH3da7ZFSZ6AeT7PM)
+- [Chapter 7 Part III: Physics & Engineering](https://colab.research.google.com/drive/1UokkpyXFyD8UfiKmzqQL9jJrTf7JPmn8)
+- [Chapter 7 Part IV: Geoscience & Climate Applications](https://colab.research.google.com/drive/1H0A-NM6_nAPBJVhV3_AE_MURhzY6ynHi)
+- [Chapter 7 Part V: Cross-Cutting Applications in Deep Learning](https://colab.research.google.com/drive/1j-jKCGRWisV7kaABupLM398oMJVwuiff)
+- [Chapter 8: Fine-Tuning & Domain Adaptation](https://colab.research.google.com/drive/1lM0L3fojnK4UasVxh63NeK-2Ea_SANgX)
+- [Chapter 9: Multimodal Generative AI for Sciences](https://colab.research.google.com/drive/1cP0p02-HD-VoD7LQAewTOBdz-kGShWfN)
+- [Chapter 10: Evaluation, Validation & Benchmarking](https://colab.research.google.com/drive/18MjA2wYPmT-let7PbTCeXmlpsGeSUNQl)
+- [Chapter 11: Ethics & Responsible AI for Science](https://colab.research.google.com/drive/1oj3G6CZO06UL5d8RNJ8hBZpBTcGWEuBl)
+- [Chapter 12: Deployment & MLOps for Scientific Applications](https://colab.research.google.com/drive/16DuBqOgIxW4U6JSm2hRWEL-JD0Vzu_wI)
+- [Chapter 13: Future Directions & Conclusion](https://colab.research.google.com/drive/1cvjPwsA-uGSpG4i86VVUAiOpaLYudLMc)
