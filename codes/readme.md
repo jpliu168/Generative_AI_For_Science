@@ -2,7 +2,7 @@
 
 | Chapter | Topic | Notebook |
 |---------|-------|----------|
-| 3 | Scientific Data & Workflows | [Open in Colab](https://colab.research.google.com/drive/1d4LAwJp6cZvLDjX-vKJ5C_lc5PRXauk7) |
+| 3 | Scientific Data & Workflows |  <a href="https://colab.research.google.com/drive/1d4LAwJp6cZvLDjX-vKJ5C_lc5PRXauk7" target="_blank" rel="noopener">Open in Colab</a> |
 | 4 | Text & Knowledge Generation for Scientists | [Open in Colab](https://colab.research.google.com/drive/19mszERGyZU2lbsqGgXElGC_6wBJocGC1) |
 | 5 | Data-to-Data Models | [Open in Colab](https://colab.research.google.com/drive/11Ikr2WiUGcyBEs4AxJoF5t7biS5t_eBi) |
 | 6 | Physics-Informed AI and Simulation | [Open in Colab](https://colab.research.google.com/drive/1dwKNoHjm4NNldZaxj_R_CQtGzyB6yMyq) |
