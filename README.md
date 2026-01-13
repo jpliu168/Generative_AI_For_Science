@@ -176,8 +176,10 @@ By the end of this book, you will:
 1. **📖 Get the 500-page book**
    
    👉 [https://leanpub.com/generativeaiforscience](https://leanpub.com/generativeaiforscience)
+
+   👉 [https://www.amazon.com/dp/B0GGHD79VR](https://www.amazon.com/dp/B0GGHD79VR)
    
-2. **📥 Pick up a chapter**
+3. **📥 Pick up a chapter**
 
   - Read the chapter and open that chapter's Colab Notebook 
 
@@ -406,6 +408,10 @@ If you find this resource helpful:
   <a href="https://leanpub.com/generativeaiforscience">
     <img src="https://img.shields.io/badge/Get%20the%20Book-Leanpub-yellow?style=for-the-badge&logo=leanpub" alt="Get the Book"/>
   </a>
+  <br><br>
+<a href="https://www.amazon.com/dp/B0GGHD79VR" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Get%20the%20Book-Amazon-orange?style=for-the-badge&logo=amazon&logoColor=white" alt="Get the Book on Amazon"/>
+</a>
 </p>
 
 ---
