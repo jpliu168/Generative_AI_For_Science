@@ -13,7 +13,9 @@
 <p align="center">
   <a href="https://leanpub.com/generativeaiforscience"><img src="https://img.shields.io/badge/📖_Get_the_Book-Leanpub-yellow?style=for-the-badge" alt="Leanpub"/></a>
   <a href="#-quick-start"><img src="https://img.shields.io/badge/▶️_Try_Now-Colab-orange?style=for-the-badge" alt="Try Now"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" alt="Python"/></a>
+  <a href="https://www.amazon.com/dp/B0GGHD79VR" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Get%20the%20Book-Amazon-orange?style=for-the-badge&logo=amazon&logoColor=white" alt="Get the Book on Amazon"/>
+</a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/></a>
 </p>
 
