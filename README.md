@@ -425,6 +425,10 @@ If you find this resource helpful:
 </p>
 
 ---
+Other related book:
+How to Build and Fine-Tune a Small Lanugage Model:
+<a href=https://leanpub.com/howtobuildandfine-tuneasmalllanguagemodel>https://leanpub.com/howtobuildandfine-tuneasmalllanguagemodel</a>
+<a href=https://www.amazon.com/dp/B0G3MYWTJK>https://www.amazon.com/dp/B0G3MYWTJK</a>
 
 <!--
 SOCIAL MEDIA OPTIMIZATION NOTES:
