@@ -408,11 +408,11 @@ If you find this resource helpful:
   <strong>🚀 Ready to accelerate your scientific discovery with AI?</strong>
   <br><br>
   <a href="https://leanpub.com/generativeaiforscience">
-    <img src="https://img.shields.io/badge/Get%20the%20Book-Leanpub-yellow?style=for-the-badge&logo=leanpub" alt="Get the Book"/>
+    <img src="https://img.shields.io/badge/Get%20the%20PDF-Leanpub-yellow?style=for-the-badge&logo=leanpub" alt="Get the Book"/>
   </a>
   <br><br>
 <a href="https://www.amazon.com/dp/B0GGHD79VR" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Get%20the%20Book-Amazon-orange?style=for-the-badge&logo=amazon&logoColor=white" alt="Get the Book on Amazon"/>
+  <img src="https://img.shields.io/badge/Get%20Paper%20Book-Amazon-orange?style=for-the-badge&logo=amazon&logoColor=white" alt="Get the Book on Amazon"/>
 </a>
 </p>
 
