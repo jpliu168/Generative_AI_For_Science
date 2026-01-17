@@ -426,7 +426,7 @@ If you find this resource helpful:
 
 ---
 Other related book:<br>
-<b>How to Build and Fine-Tune a Small Lanugage Model:</b><br>
+<b>How to Build and Fine-Tune a Small Language Model:</b><br>
 <img src="SLM_cover_page.png" alt="SLM Book Cover" width="300"/>
 <br>
 <a href=https://leanpub.com/howtobuildandfine-tuneasmalllanguagemodel>https://leanpub.com/howtobuildandfine-tuneasmalllanguagemodel</a><br>
