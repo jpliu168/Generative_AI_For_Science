@@ -42,3 +42,25 @@
 | 11 | Ethics & Responsible AI for Science | [Open in Colab](https://colab.research.google.com/drive/1oj3G6CZO06UL5d8RNJ8hBZpBTcGWEuBl) |
 | 12 | Deployment & MLOps for Scientific Applications | [Open in Colab](https://colab.research.google.com/drive/16DuBqOgIxW4U6JSm2hRWEL-JD0Vzu_wI) |
 | 13 | Future Directions & Conclusion | [Open in Colab](https://colab.research.google.com/drive/1cvjPwsA-uGSpG4i86VVUAiOpaLYudLMc) |
+
+---
+
+## 📜 Citation
+
+If you use this book or code in your research, please cite:
+
+```bibtex
+@book{liu2026generativeai,
+  title     = {Generative AI for Science},
+  author    = {Liu, J. Paul},
+  year      = {2026},
+  publisher = {Leanpub},
+  url       = {https://leanpub.com/generativeaiforscience}
+}
+```
+
+Or simply:
+
+> J. Paul Liu, 2026. *Generative AI for Science*. Leanpub, https://leanpub.com/generativeaiforscience
+
+---
