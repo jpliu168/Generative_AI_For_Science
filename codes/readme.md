@@ -31,6 +31,7 @@
 | 4 | Text & Knowledge Generation for Scientists | [Open in Colab](https://colab.research.google.com/drive/19mszERGyZU2lbsqGgXElGC_6wBJocGC1) |
 | 5 | Data-to-Data Models | [Open in Colab](https://colab.research.google.com/drive/11Ikr2WiUGcyBEs4AxJoF5t7biS5t_eBi) |
 | 6 | Physics-Informed AI and Simulation | [Open in Colab](https://colab.research.google.com/drive/1dwKNoHjm4NNldZaxj_R_CQtGzyB6yMyq) |
+| 6+ | Physics-Informed NN River-Ocean Storm Surge | [Open in Colab](https://colab.research.google.com/drive/1d7lBgI6EP0TkmFAlkN6yk2jk1gppFoRP) |
 | 7.1 | Chemistry & Materials Science | [Open in Colab](https://colab.research.google.com/drive/1Pd5ykAR98a_9_SWxCY9cdBHNhHgFfN55) |
 | 7.2 | Biology & Biomedicine | [Open in Colab](https://colab.research.google.com/drive/1Hf5ZQqJRK5H6vi4zH3da7ZFSZ6AeT7PM) |
 | 7.3 | Physics & Engineering | [Open in Colab](https://colab.research.google.com/drive/1UokkpyXFyD8UfiKmzqQL9jJrTf7JPmn8) |
