@@ -22,6 +22,8 @@
 <p align="center">
   <em>By Dr. J. Paul Liu</em><br>
   📢 <strong>Updated regularly based on student & reader feedback</strong>
+  <br>
+<a href=https://raw.githubusercontent.com/jpliu168/Generative_AI_For_Science/main/Generativeaiforscience-preview_V30_Ch_1-2.pdf>Check the sample chapters</a>
 </p>
 
 ---
