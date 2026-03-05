@@ -65,6 +65,9 @@
 
 | 13 | Future Directions & Conclusion | [Open in Colab](https://colab.research.google.com/drive/1cvjPwsA-uGSpG4i86VVUAiOpaLYudLMc) |
 
+
+ENSO prediction [Open in Colab](https://colab.research.google.com/drive/1f6jnMvRTtip6lPeg7RxirEN3b7WcI1x5)
+
 ---
 
 ## 📜 Citation
