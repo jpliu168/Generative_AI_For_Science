@@ -40,7 +40,7 @@
 | 7.2 | Biology & Biomedicine | [Open in Colab](https://colab.research.google.com/drive/1Hf5ZQqJRK5H6vi4zH3da7ZFSZ6AeT7PM) |
 | 7.3 | Physics & Engineering | [Open in Colab](https://colab.research.google.com/drive/1UokkpyXFyD8UfiKmzqQL9jJrTf7JPmn8) |
 | 7.4 | Geoscience & Climate Applications | [Open in Colab](https://colab.research.google.com/drive/1H0A-NM6_nAPBJVhV3_AE_MURhzY6ynHi) |
-| 7.4.1 | Forecasting Global Weather with Graph Neural Networks| [Open in Colab](https://colab.research.google.com/drive/1y2LKnG1fIVc_lxrQj4qJ_FBc-tJmX6tN) |
+| 7.4.1 | Forecasting Global Weather with Graph Neural Networks (NCSU ONLY)| [Open in Colab](https://colab.research.google.com/drive/1y2LKnG1fIVc_lxrQj4qJ_FBc-tJmX6tN) |
 | 7.5 | Cross-Cutting Applications in Deep Learning | [Open in Colab](https://colab.research.google.com/drive/1j-jKCGRWisV7kaABupLM398oMJVwuiff) |
 | 8 | Fine-Tuning & Domain Adaptation | [Open in Colab](https://colab.research.google.com/drive/1lM0L3fojnK4UasVxh63NeK-2Ea_SANgX) |
 | 9 | Multimodal Generative AI for Sciences | [Open in Colab](https://colab.research.google.com/drive/1cP0p02-HD-VoD7LQAewTOBdz-kGShWfN) |
