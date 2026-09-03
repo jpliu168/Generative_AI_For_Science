@@ -30,6 +30,7 @@
 | 2 | 🚨✅  What is Neural Networks (NN)? (not included in the book)| [Open in Colab](https://colab.research.google.com/drive/1xnh9xbSjURdpuYxmz5qRhT2tAeDY_upc) |
 | 2+ | 🚨✅ Chapter 2 Extra: PyTorch Deep Dive: torch and torch.nn (NCSU ONLY) | [Open in Colab](https://colab.research.google.com/drive/11fKel1rLlmyF6KWE1cGymoYD49OtYY1N) |
 | 2+ | 🚨✅ Chapter 2 Extra: Neural_Network_102_image_CNN_learning_demo | [Open in Colab](https://colab.research.google.com/drive/1cmO_I2tAdxeZzXwcAw9Bj-SD5oceZ64L) |
+| 2+ | extra: RNN | [Open in Colab](https://colab.research.google.com/drive/1jepq613w9Was3qhOPkZWzUtOpc5WgS3P) |
 | 3 | Scientific Data & Workflows | [Open in Colab](https://colab.research.google.com/drive/1d4LAwJp6cZvLDjX-vKJ5C_lc5PRXauk7) |
 | 4 | Text & Knowledge Generation for Scientists | [Open in Colab](https://colab.research.google.com/drive/19mszERGyZU2lbsqGgXElGC_6wBJocGC1) |
 | 5 | Data-to-Data Models | [Open in Colab](https://colab.research.google.com/drive/11Ikr2WiUGcyBEs4AxJoF5t7biS5t_eBi) |
