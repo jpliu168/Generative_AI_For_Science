@@ -33,7 +33,6 @@
 | 2+ | extra: RNN | [Open in Colab](https://colab.research.google.com/drive/1tdr2ofQl_nd172My81MhzLTSmHcRGDg2) |
 | 2+ | extra: LSTM | [Open in Colab](https://colab.research.google.com/drive/1aM8WWguzhLBPhd9Acco1c_zOOCosSfMT) |
 | 2+ | extra: GRU | [Open in Colab](https://colab.research.google.com/drive/1qnWcKpSwAudb-pFBYQEwBNcGxVyY23VD#scrollTo=S6Ud7SzFxb3t) |
-
 | 3 | Scientific Data & Workflows | [Open in Colab](https://colab.research.google.com/drive/1d4LAwJp6cZvLDjX-vKJ5C_lc5PRXauk7) |
 | 4 | Text & Knowledge Generation for Scientists | [Open in Colab](https://colab.research.google.com/drive/19mszERGyZU2lbsqGgXElGC_6wBJocGC1) |
 | 5 | Data-to-Data Models | [Open in Colab](https://colab.research.google.com/drive/11Ikr2WiUGcyBEs4AxJoF5t7biS5t_eBi) |
