@@ -50,6 +50,7 @@
 | 7.5 | Cross-Cutting Applications in Deep Learning | [Open in Colab](https://colab.research.google.com/drive/1j-jKCGRWisV7kaABupLM398oMJVwuiff) |
 | 7.6 | Self-Attention Deep Dive: From Math to Scientific Discovery | [Open in Colab](https://colab.research.google.com/drive/1UgzT9-VYWm7ZH-pz9_8qZkdXCpHKdkqx) |
 | 8 | Fine-Tuning & Domain Adaptation | [Open in Colab](https://colab.research.google.com/drive/1lM0L3fojnK4UasVxh63NeK-2Ea_SANgX) |
+| 8+ | Week 8 — Full Transformer → Large Language Models for Science (Part 1) | [Open in Colab](https://colab.research.google.com/drive/121bG828jkZlLuLn7LdZLx_UI-6abSAhv) |
 | 9 | Multimodal Generative AI for Sciences | [Open in Colab](https://colab.research.google.com/drive/1cP0p02-HD-VoD7LQAewTOBdz-kGShWfN) |
 | 10 | Evaluation, Validation & Benchmarking | [Open in Colab](https://colab.research.google.com/drive/18MjA2wYPmT-let7PbTCeXmlpsGeSUNQl) |
 | 11 | Ethics & Responsible AI for Science | [Open in Colab](https://colab.research.google.com/drive/1oj3G6CZO06UL5d8RNJ8hBZpBTcGWEuBl) |
