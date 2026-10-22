@@ -37,6 +37,7 @@
 | 3 | Scientific Data & Workflows | [Open in Colab](https://colab.research.google.com/drive/1d4LAwJp6cZvLDjX-vKJ5C_lc5PRXauk7) |
 | 4 | Text & Knowledge Generation for Scientists | [Open in Colab](https://colab.research.google.com/drive/19mszERGyZU2lbsqGgXElGC_6wBJocGC1) |
 | 4+ |Pretrain and finetune a small language model | [Open in Colab](https://colab.research.google.com/drive/1kQKXh3bD7co3m3_j_YXnLpOaGiRqG4UR) |
+| 4+ |LLM, API, FUNCTION Call, and Tools | [Open in Colab](https://colab.research.google.com/drive/1_pUOhmKpt2a9y3rVOO79MCC8KH-jjOqI) |
 | 5 | Data-to-Data Models | [Open in Colab](https://colab.research.google.com/drive/11Ikr2WiUGcyBEs4AxJoF5t7biS5t_eBi) |
 | 5+ |  🚨✅ Data-to-Data Models extra: ENSO prediction (permission required)   | [Open in Colab](https://colab.research.google.com/drive/1f6jnMvRTtip6lPeg7RxirEN3b7WcI1x5) |
 | 6 | Physics-Informed AI and Simulation | [Open in Colab](https://colab.research.google.com/drive/1dwKNoHjm4NNldZaxj_R_CQtGzyB6yMyq) |
