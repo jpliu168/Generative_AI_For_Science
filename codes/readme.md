@@ -58,6 +58,8 @@
 | 11 | Ethics & Responsible AI for Science | [Open in Colab](https://colab.research.google.com/drive/1oj3G6CZO06UL5d8RNJ8hBZpBTcGWEuBl) |
 | 12 | Deployment & MLOps for Scientific Applications | [Open in Colab](https://colab.research.google.com/drive/16DuBqOgIxW4U6JSm2hRWEL-JD0Vzu_wI) |
 | 13 | Future Directions & Conclusion | [Open in Colab](https://colab.research.google.com/drive/1cvjPwsA-uGSpG4i86VVUAiOpaLYudLMc) |
+| extra |U-Net and Diffusion | [Open in Colab](https://colab.research.google.com/drive/1L_qGYhFTK_FKSnHUra-LiLihlUyiiUMJ) |
+
 
 
 
