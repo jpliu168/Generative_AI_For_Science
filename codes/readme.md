@@ -59,7 +59,8 @@
 | 12 | Deployment & MLOps for Scientific Applications | [Open in Colab](https://colab.research.google.com/drive/16DuBqOgIxW4U6JSm2hRWEL-JD0Vzu_wI) |
 | 13 | Future Directions & Conclusion | [Open in Colab](https://colab.research.google.com/drive/1cvjPwsA-uGSpG4i86VVUAiOpaLYudLMc) |
 | extra |U-Net and Diffusion | [Open in Colab](https://colab.research.google.com/drive/1iiAJJa2shWP6ULoPILdw8XjpWeef8Tkd) |
-
+| extra |NVIDIA CorrDiff 1 | [Open in Colab](https://colab.research.google.com/drive/1rQ8JyYVMNJEcnjMKb3QY5zD3SmEAlzkH#scrollTo=0ARSBfOD-Q3x) |
+| extra |NVIDIA CorrDiff 2 | [Open in Colab](https://colab.research.google.com/drive/18aeh42MujgbEro1wAAyKvarVGghs3Vrj#scrollTo=corrdiff-07) |
 
 
 
