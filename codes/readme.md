@@ -63,7 +63,7 @@
 | extra |NVIDIA CorrDiff 2 | [Open in Colab](https://colab.research.google.com/drive/18aeh42MujgbEro1wAAyKvarVGghs3Vrj#scrollTo=corrdiff-07) |
 | extra |Florence: ERA5 → HRRR regional downscaling development study| [Open in Colab](https://colab.research.google.com/drive/1Apa1On-A6dy3RKBZAP_p1YFzGeZ63oPV) |
 | extra | StormCast — Autoregressive Convective-Scale Ensemble Forecasting| [Open in Colab](https://colab.research.google.com/drive/1szbcBWg-A6b_xFHdSkHQF9TS01ayCX1h) |
-| extra | StormCast-CONUS — Hurricane Helene| [Open in Colab]([https://colab.research.google.com/drive/1szbcBWg-A6b_xFHdSkHQF9TS01ayCX1h](https://colab.research.google.com/drive/12dEBz3Imr3jvlMbUoETUXax9Q16lT7Vg)) |
+| extra | StormCast-CONUS — Hurricane Helene| [Open in Colab](https://colab.research.google.com/drive/12dEBz3Imr3jvlMbUoETUXax9Q16lT7Vg) |
 
 ---
 
