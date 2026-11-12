@@ -64,6 +64,10 @@
 | extra |Florence: ERA5 → HRRR regional downscaling development study| [Open in Colab](https://colab.research.google.com/drive/1Apa1On-A6dy3RKBZAP_p1YFzGeZ63oPV) |
 | extra | StormCast — Autoregressive Convective-Scale Ensemble Forecasting| [Open in Colab](https://colab.research.google.com/drive/1szbcBWg-A6b_xFHdSkHQF9TS01ayCX1h) |
 | extra | StormCast-CONUS — Hurricane Helene| [Open in Colab](https://colab.research.google.com/drive/12dEBz3Imr3jvlMbUoETUXax9Q16lT7Vg) |
+| extra |Diffusion Models for Image Processing: From Noise to Structure| [Open in Colab](https://colab.research.google.com/drive/1lzH_oU0LLdauo07qpOk4-S61Ahxee30g) |
+| extra |YOLO Object Detection — A Hands-On Tutorial| [Open in Colab](https://colab.research.google.com/drive/1Rb7uTpnahOHjZ9bUbv7vO2jNqGH-NWCx) |
+
+
 
 ---
 
